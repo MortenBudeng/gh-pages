@@ -3,7 +3,7 @@
     <title>Mortens test</title>
     <link href="https://mortenbudeng.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://mortenbudeng.github.io/gh-pages" />
-    <updated>2018-10-09T22:43:10+02:00</updated>
+    <updated>2018-10-09T22:51:34+02:00</updated>
     <author>
         <name>Morten</name>
     </author>
@@ -16,18 +16,18 @@
         </author>
         <link href="https://mortenbudeng.github.io/gh-pages/test-3.html"/>
         <id>https://mortenbudeng.github.io/gh-pages/test-3.html</id>
+            <category term="Portfolio"/>
 
-        <updated>2018-10-09T22:42:41+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/d3456ffb-1fd7-47ba-8eb8-dab0b60ea704_rw_1920.png" alt="" />
-                    test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3
-                ]]>
-            </summary>
+        <updated>2018-10-09T22:51:26+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/d3456ffb-1fd7-47ba-8eb8-dab0b60ea704_rw_1920.png" alt="" />
-                test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5938.PNG" ><img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5938-thumbnail.PNG" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5939.PNG" ><img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5939-thumbnail.PNG" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5940.PNG" ><img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5940-thumbnail.PNG" alt="" width="240" height="240"></a></figure>
+</div>
             ]]>
         </content>
     </entry>

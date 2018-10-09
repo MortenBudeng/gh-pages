@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://mortenbudeng.github.io/gh-pages/test-2.html",
+            "url": "https://mortenbudeng.github.io/gh-pages/test-2.html",
+            "title": "Test 2",
+            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/2/BlackMammoth_0817.jpg",
+            "author": {
+                "name": "Morten"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-09T22:39:29+02:00",
+            "date_modified": "2018-10-09T22:39:29+02:00"
+        },
+        {
             "id": "https://mortenbudeng.github.io/gh-pages/test.html",
             "url": "https://mortenbudeng.github.io/gh-pages/test.html",
             "title": "Test",

@@ -3,12 +3,34 @@
     <title>Mortens test</title>
     <link href="https://mortenbudeng.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://mortenbudeng.github.io/gh-pages" />
-    <updated>2018-10-09T22:39:35+02:00</updated>
+    <updated>2018-10-09T22:43:10+02:00</updated>
     <author>
         <name>Morten</name>
     </author>
     <id>https://mortenbudeng.github.io/gh-pages</id>
 
+    <entry>
+        <title>test 3</title>
+        <author>
+            <name>Morten</name>
+        </author>
+        <link href="https://mortenbudeng.github.io/gh-pages/test-3.html"/>
+        <id>https://mortenbudeng.github.io/gh-pages/test-3.html</id>
+
+        <updated>2018-10-09T22:42:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/d3456ffb-1fd7-47ba-8eb8-dab0b60ea704_rw_1920.png" alt="" />
+                    test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/3/d3456ffb-1fd7-47ba-8eb8-dab0b60ea704_rw_1920.png" alt="" />
+                test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3test 3
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test 2</title>
         <author>

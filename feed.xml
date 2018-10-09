@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Mortens test</title>
+    <link href="https://mortenbudeng.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://mortenbudeng.github.io/gh-pages" />
+    <updated>2018-10-09T22:35:19+02:00</updated>
+    <author>
+        <name>Morten</name>
+    </author>
+    <id>https://mortenbudeng.github.io/gh-pages</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Morten</name>
+        </author>
+        <link href="https://mortenbudeng.github.io/gh-pages/test.html"/>
+        <id>https://mortenbudeng.github.io/gh-pages/test.html</id>
+
+        <updated>2018-10-09T22:10:47+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/1/Bel_ill07_3.jpg" alt="" />
+                    ksjbcqkjsbckajs
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/1/Bel_ill07_3.jpg" alt="" />
+                ksjbcqkjsbckajs
+            ]]>
+        </content>
+    </entry>
+</feed>

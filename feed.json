@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mortens test",
+    "description": "",
+    "home_page_url": "https://mortenbudeng.github.io/gh-pages",
+    "feed_url": "https://mortenbudeng.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Morten"
+    },
+    "items": [
+        {
+            "id": "https://mortenbudeng.github.io/gh-pages/test.html",
+            "url": "https://mortenbudeng.github.io/gh-pages/test.html",
+            "title": "Test",
+            "summary": "ksjbcqkjsbckajs",
+            "content_html": "ksjbcqkjsbckajs",
+            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/1/Bel_ill07_3.jpg",
+            "author": {
+                "name": "Morten"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-09T22:08:13+02:00",
+            "date_modified": "2018-10-09T22:10:47+02:00"
+        }
+    ]
+}

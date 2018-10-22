@@ -11,21 +11,6 @@
     },
     "items": [
         {
-            "id": "https://mortenbudeng.github.io/gh-pages/test-3.html",
-            "url": "https://mortenbudeng.github.io/gh-pages/test-3.html",
-            "title": "test 3",
-            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5938.PNG\" ><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5938-thumbnail.PNG\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5939.PNG\" ><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5939-thumbnail.PNG\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5940.PNG\" ><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/3/gallery/IMG_5940-thumbnail.PNG\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
-            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/3/d3456ffb-1fd7-47ba-8eb8-dab0b60ea704_rw_1920.png",
-            "author": {
-                "name": "Morten"
-            },
-            "tags": [
-                   "Portfolio"
-            ],
-            "date_published": "2018-10-10T09:06:55+02:00",
-            "date_modified": "2018-10-10T09:06:55+02:00"
-        },
-        {
             "id": "https://mortenbudeng.github.io/gh-pages/test-2.html",
             "url": "https://mortenbudeng.github.io/gh-pages/test-2.html",
             "title": "Test 2",

@@ -5,6 +5,7 @@
     "home_page_url": "https://mortenbudeng.github.io/gh-pages",
     "feed_url": "https://mortenbudeng.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://mortenbudeng.github.io/gh-pages/media/website/EIQON-logo-side-black-300dpi.png",
     "author": {
         "name": "Morten"
     },
@@ -21,21 +22,36 @@
             "tags": [
                    "Portfolio"
             ],
-            "date_published": "2018-10-09T22:42:41+02:00",
-            "date_modified": "2018-10-09T22:51:26+02:00"
+            "date_published": "2018-10-10T09:06:55+02:00",
+            "date_modified": "2018-10-10T09:06:55+02:00"
         },
         {
             "id": "https://mortenbudeng.github.io/gh-pages/test-2.html",
             "url": "https://mortenbudeng.github.io/gh-pages/test-2.html",
             "title": "Test 2",
-            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/2/BlackMammoth_0817.jpg",
+            "summary": " Dette er en test tekst Dette er en test tekstDette er en&hellip;",
+            "content_html": "<p><img class=\"post__image--wide\" src=\"https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1050.png\" alt=\"\" width=\"1050\" height=\"627\"></p>\n<p>Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekstDette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst</p>\n<p><img class=\"post__image--wide\" src=\"https://mortenbudeng.github.io/gh-pages/media/posts/2/kragero_ipad.png\" alt=\"\" width=\"1338\" height=\"1137\"></p>",
+            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1400.png",
             "author": {
                 "name": "Morten"
             },
             "tags": [
             ],
-            "date_published": "2018-10-09T22:39:29+02:00",
-            "date_modified": "2018-10-09T22:39:29+02:00"
+            "date_published": "2018-10-10T09:04:36+02:00",
+            "date_modified": "2018-10-15T14:21:57+02:00"
+        },
+        {
+            "id": "https://mortenbudeng.github.io/gh-pages/testv-4.html",
+            "url": "https://mortenbudeng.github.io/gh-pages/testv-4.html",
+            "title": "testv 4",
+            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/4/rav_cover_1050.png",
+            "author": {
+                "name": "Morten"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-10-10T08:56:29+02:00",
+            "date_modified": "2018-10-10T08:56:29+02:00"
         },
         {
             "id": "https://mortenbudeng.github.io/gh-pages/test.html",
@@ -50,7 +66,7 @@
             "tags": [
             ],
             "date_published": "2018-10-09T22:08:13+02:00",
-            "date_modified": "2018-10-09T22:10:47+02:00"
+            "date_modified": "2018-10-10T09:06:11+02:00"
         }
     ]
 }

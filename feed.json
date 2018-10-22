@@ -30,15 +30,15 @@
             "url": "https://mortenbudeng.github.io/gh-pages/test-2.html",
             "title": "Test 2",
             "summary": " Dette er en test tekst Dette er en test tekstDette er en&hellip;",
-            "content_html": "<p><img class=\"post__image--wide\" src=\"https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1050.png\" alt=\"\" width=\"1050\" height=\"627\"></p>\n<p>Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekstDette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst</p>\n<p><img class=\"post__image--wide\" src=\"https://mortenbudeng.github.io/gh-pages/media/posts/2/kragero_ipad.png\" alt=\"\" width=\"1338\" height=\"1137\"></p>",
-            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1400.png",
+            "content_html": "<p> </p>\n<p>Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekstDette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst</p>\n<p><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png\" alt=\"\" width=\"1016\" height=\"678\"></p>",
+            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png",
             "author": {
                 "name": "Morten"
             },
             "tags": [
             ],
             "date_published": "2018-10-10T09:04:36+02:00",
-            "date_modified": "2018-10-22T14:24:45+02:00"
+            "date_modified": "2018-10-22T14:27:03+02:00"
         },
         {
             "id": "https://mortenbudeng.github.io/gh-pages/testv-4.html",

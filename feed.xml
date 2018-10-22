@@ -3,7 +3,7 @@
     <title>Mortens test</title>
     <link href="https://mortenbudeng.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://mortenbudeng.github.io/gh-pages" />
-    <updated>2018-10-22T14:24:53+02:00</updated>
+    <updated>2018-10-22T14:27:10+02:00</updated>
     <author>
         <name>Morten</name>
     </author>
@@ -39,19 +39,19 @@
         <link href="https://mortenbudeng.github.io/gh-pages/test-2.html"/>
         <id>https://mortenbudeng.github.io/gh-pages/test-2.html</id>
 
-        <updated>2018-10-22T14:24:45+02:00</updated>
+        <updated>2018-10-22T14:27:03+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1400.png" alt="" />
+                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" />
                      Dette er en test tekst Dette er en test tekstDette er en&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1400.png" alt="" />
-                <p><img class="post__image--wide" src="https://mortenbudeng.github.io/gh-pages/media/posts/2/rav_cover_1050.png" alt="" width="1050" height="627"></p>
+                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" />
+                <p> </p>
 <p>Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekstDette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst</p>
-<p><img class="post__image--wide" src="https://mortenbudeng.github.io/gh-pages/media/posts/2/kragero_ipad.png" alt="" width="1338" height="1137"></p>
+<p><img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" width="1016" height="678"></p>
             ]]>
         </content>
     </entry>

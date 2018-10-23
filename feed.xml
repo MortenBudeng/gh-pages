@@ -3,12 +3,36 @@
     <title>Mortens test</title>
     <link href="https://mortenbudeng.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://mortenbudeng.github.io/gh-pages" />
-    <updated>2018-10-22T14:50:22+02:00</updated>
+    <updated>2018-10-23T10:25:01+02:00</updated>
     <author>
         <name>Morten</name>
     </author>
     <id>https://mortenbudeng.github.io/gh-pages</id>
 
+    <entry>
+        <title>Test 4</title>
+        <author>
+            <name>Morten</name>
+        </author>
+        <link href="https://mortenbudeng.github.io/gh-pages/test-4.html"/>
+        <id>https://mortenbudeng.github.io/gh-pages/test-4.html</id>
+            <category term="Ymse"/>
+
+        <updated>2018-10-22T15:25:10+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/5/img-placeholder.png" alt="" />
+                    advdvsadvsd 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/5/img-placeholder.png" alt="" />
+                <p>advdvsadvsd</p>
+<p><img class="post__image--full" src="https://mortenbudeng.github.io/gh-pages/media/posts/5/img-placeholder.png" alt="" width="1016" height="678"></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test 2</title>
         <author>
@@ -16,8 +40,9 @@
         </author>
         <link href="https://mortenbudeng.github.io/gh-pages/test-2.html"/>
         <id>https://mortenbudeng.github.io/gh-pages/test-2.html</id>
+            <category term="Identitet"/>
 
-        <updated>2018-10-22T14:27:03+02:00</updated>
+        <updated>2018-10-22T15:17:38+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" />
@@ -27,9 +52,13 @@
         <content type="html">
             <![CDATA[
                     <img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" />
-                <p> </p>
+                <p> <img class="post__image--full" src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" width="1016" height="678"></p>
 <p>Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekstDette er en test tekst Dette er en test tekstDette er en test tekst Dette er en test tekst Dette er en test tekstDette er en test tekst</p>
-<p><img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/img-placeholder.png" alt="" width="1016" height="678"></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://mortenbudeng.github.io/gh-pages/media/posts/2/gallery/img-placeholder.png" ><img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/gallery/img-placeholder-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://mortenbudeng.github.io/gh-pages/media/posts/2/gallery/img-placeholder.png" ><img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/gallery/img-placeholder-thumbnail.png" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://mortenbudeng.github.io/gh-pages/media/posts/2/gallery/img-placeholder.png" ><img src="https://mortenbudeng.github.io/gh-pages/media/posts/2/gallery/img-placeholder-thumbnail.png" alt="" width="240" height="240"></a></figure>
+</div>
             ]]>
         </content>
     </entry>
@@ -40,8 +69,9 @@
         </author>
         <link href="https://mortenbudeng.github.io/gh-pages/testv-4.html"/>
         <id>https://mortenbudeng.github.io/gh-pages/testv-4.html</id>
+            <category term="Identitet"/>
 
-        <updated>2018-10-10T08:56:29+02:00</updated>
+        <updated>2018-10-22T15:17:29+02:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -52,17 +82,18 @@
         </author>
         <link href="https://mortenbudeng.github.io/gh-pages/test.html"/>
         <id>https://mortenbudeng.github.io/gh-pages/test.html</id>
+            <category term="Digital"/>
 
-        <updated>2018-10-10T09:06:11+02:00</updated>
+        <updated>2018-10-22T15:17:47+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/1/Bel_ill07_3.jpg" alt="" />
+                        <img src="https://mortenbudeng.github.io/gh-pages/media/posts/1/img-placeholder.png" alt="" />
                     ksjbcqkjsbckajs
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/1/Bel_ill07_3.jpg" alt="" />
+                    <img src="https://mortenbudeng.github.io/gh-pages/media/posts/1/img-placeholder.png" alt="" />
                 ksjbcqkjsbckajs
             ]]>
         </content>

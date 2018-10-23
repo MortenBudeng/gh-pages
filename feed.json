@@ -58,18 +58,19 @@
         {
             "id": "https://mortenbudeng.github.io/gh-pages/test.html",
             "url": "https://mortenbudeng.github.io/gh-pages/test.html",
-            "title": "Test",
-            "summary": "ksjbcqkjsbckajs",
-            "content_html": "ksjbcqkjsbckajs",
-            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/1/img-placeholder.png",
+            "title": "Mobilapp for Fineswap",
+            "summary": "Fineswap er en en start-up som jobber med å utvikle en app&hellip;",
+            "content_html": "<p>Fineswap er en en start-up som jobber med å utvikle en app for miljøbevisste second-hand entusiaster. Konseptet bygger på at gjenbruk skal være gratis og målet er at det skal bli et sosialt, effektivt og morsomt byttemarked som skiller seg fra andre «kjøpe/selge» app’er gjennom å fokusere på bytting av varer. I appen kan du sette egne innstillinger for markedsplassen, følge andre byttere og filtrere søk. For å skape en effektiv og morsom markedsplass får brukerne en «match» når de liker hverandres ting og blir oppfordret til å bytte.<br><br></p>\n<p><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/1/fineswap_app2.png\" alt=\"\" width=\"1400\" height=\"965\"></p>\n<p><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/1/Fineswap-web_4.png\" width=\"1400\" height=\"1748\"></p>\n<p><br>Identiteten bygger på fellesskap, glede og nysgjerrighet, og logoen er basert på bokstaver som er bygget opp av elementer som gjenspeiler fellesskapet mellom mennesker og en markedsplass med morsomme og spennende skatter. Sammen med mønster, bilder og ulike skrifttyper skaper logoen en fargerik visuell identitet som er i kontinuerlig utvikling – akkurat som markedsplassen og brukerne.</p>\n<p><img src=\"https://mortenbudeng.github.io/gh-pages/media/posts/1/fineswap_symbol.png\" alt=\"\" width=\"700\" height=\"394\"><br><br>Finswap kan i dag lastes ned fra Google Play og en redesignet iOS-versjonen llanseres i løpet av høsten 2018.</p>",
+            "image": "https://mortenbudeng.github.io/gh-pages/media/posts/1/94cbf53c-4a4f-4307-a5ec-9404708ef766_rwc_0x0x1925x1279x1925.jpg",
             "author": {
                 "name": "Morten"
             },
             "tags": [
+                   "Identitet",
                    "Digital"
             ],
             "date_published": "2018-10-09T22:08:13+02:00",
-            "date_modified": "2018-10-22T15:17:47+02:00"
+            "date_modified": "2018-10-23T13:01:04+02:00"
         }
     ]
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Mortens test</title>
+    <title>Morten Budeng</title>
     <link href="https://mortenbudeng.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://mortenbudeng.github.io/gh-pages" />
-    <updated>2018-10-23T13:01:57+02:00</updated>
+    <updated>2018-10-24T12:33:26+02:00</updated>
     <author>
         <name>Morten</name>
     </author>
